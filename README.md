@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Milena
+- 👋 Olá, eu sou **Milena**
 - 👀 Estou interessado em aprender editar meu perfil na plataforma do github
 - 🌱 Atuamente eu estou aprendendo a programar javascript e github
 - 💞️ Procuro colaborarem aprender mais sobre o github
